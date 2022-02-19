@@ -1,0 +1,11 @@
+{
+  "name": "matterway-assessment",
+  "packageManager": "yarn@3.1.1",
+  "dependencies": {
+    "puppeteer": "^13.3.2",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
